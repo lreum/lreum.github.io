@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lreum.github.io/jkV/sitemap.jkV.gz
